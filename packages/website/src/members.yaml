@@ -15,7 +15,17 @@
   url: "https://ivie.codes"
   buttonUrl: "https://ivie.codes/88x31.png"
 
-  - id: vejas
+- id: vejas
   name: "vejas"
   url: "https://vejas.zip"
   buttonUrl: "https://vejas.zip/lasvejas.gif
+  
+- id: valen
+  name: "valen"
+  url: "https://valen.zip"
+  buttonUrl: "https://valen.zip/button-win98.gif"
+
+- id: josh
+  name: "josh"
+  url: "https://os.slitrostudio.me"
+  buttonUrl: /buttons/slitro.png
