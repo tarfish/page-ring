@@ -39,3 +39,8 @@
   name: "dipa"
   url: "https://dipa-cotton.github.io/personalsite/"
   buttonUrl: /buttons/dipa.png
+
+- id: pkindustry
+  name: "p-kac"
+  url: "https://pkindustry.org"
+  buttonUrl: "https://pkindustry.org/images/PKIButton.png"
