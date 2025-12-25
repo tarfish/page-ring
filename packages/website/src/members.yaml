@@ -54,3 +54,8 @@
   name: "joy su"
   url: "https://byjoysu.vercel.app/"
   buttonUrl: "/buttons/byjoysu.gif"
+
+  - id: foxy
+  name: "foxy"
+  url: "https://page.wiffles.xyz"
+  buttonUrl: "https://page.wiffles.xyz/button.gif"
